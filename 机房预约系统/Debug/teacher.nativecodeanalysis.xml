@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\我爱写代码个鬼\我爱学习C++\机房预约系统\</FILEPATH>
+      <FILENAME>teacher.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Teacher::m_EmpId。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Teacher::{ctor}</FUNCTION>
+    <DECORATED>??0Teacher@@QAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Teacher::m_EmpId</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\我爱写代码个鬼\我爱学习C++\机房预约系统\</FILEPATH>
+      <FILENAME>teacher.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Teacher::m_EmpId。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Teacher::{ctor}</FUNCTION>
+    <DECORATED>??0Teacher@@QAE@HV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Teacher::m_EmpId</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
